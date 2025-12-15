@@ -4,14 +4,14 @@
 
 
 
- # <p align="center"><em> Shopping Behavior Analysis
+ # <p align="center"><em> **Shopping Behavior Analysis**
 
 <p align="center"><em>Exploratory data analysis of consumer purchasing patterns</em></p>
 
 ---
 
 ## Client Background
-The client is a retail business seeking to better understand customer purchasing behavior across product categories, seasons, and demographics. The objective of this analysis is to identify trends that can inform inventory planning and marketing strategy.
+**ShopEase** is a U.S.-based retail company specializing in fashion products, including clothing, footwear, and accessories. Established in 2023, the company has quickly gained popularity as a hometown favorite by offering trend-focused merchandise at accessible price points. As customer demand has grown following the company’s expansion to statewide service, ShopEase seeks to better understand purchasing behavior across product categories, seasons, and customer demographics to support data-driven inventory and marketing decisions.
 
 ## Business Problem
 The client lacks clear visibility into:
